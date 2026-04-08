@@ -1,0 +1,5 @@
+[
+  {"id": 201, "amount": "not_a_number", "category": "electronics", "region": "north"},
+  {"id": 202, "amount": "N/A", "category": "clothing", "region": "south"},
+  {"id": 203, "amount": 100.00, "category": "groceries", "region": "east"}
+]

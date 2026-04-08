@@ -1,0 +1,7 @@
+[
+  {"id": 101, "amount": 500.00, "category": "electronics", "region": "north"},
+  {"id": 102, "amount": 1200.50, "category": "clothing", "region": "south"},
+  {"id": 103, "amount": 75.99, "category": "groceries", "region": "east"},
+  {"id": 104, "amount": 349.00, "category": "electronics", "region": "west"},
+  {"id": 105, "amount": 22.75, "category": "groceries", "region": "north"}
+]
